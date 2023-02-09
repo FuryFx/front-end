@@ -24,7 +24,3 @@
 
  - git clone https://github.com/FuryFx/front-end.git
  - для до загрузки обновленного репозитория пропишыте команду git pull
-
- 
-
- 
