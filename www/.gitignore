@@ -1,0 +1,6 @@
+*.scss
+/sass/
+
+/bin/
+/admin/
+/config/
